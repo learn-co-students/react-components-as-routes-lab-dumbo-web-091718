@@ -1,9 +1,10 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom'
 
 const Home = () => {
   return (
     <div>
-      {/*{code here}*/}
+      Home Page
     </div>
   );
 };
